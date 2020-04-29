@@ -62,7 +62,7 @@ dependencies {
     //noinspection GradleDynamicVersion
     implementation 'com.facebook.react:react-native:+'  // From node_modules
     implementation 'com.google.android.gms:play-services-ads:15.0.1'
-    implementation files('libs/OfferToroSdk-v4.1.0.aar')
+    implementation files('libs/OfferToroSdk-v4.2.2.aar')
 }
 
 def configureReactNativePom(def pom) {
